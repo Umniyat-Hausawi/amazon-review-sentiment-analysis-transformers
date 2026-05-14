@@ -196,7 +196,7 @@ Potential next steps include:
 
 This project demonstrates a complete NLP workflow for sentiment classification using both traditional machine learning and transformer-based architectures.
 
-Through experimentation and comparison, **DistilBERT Fine-Tuning achieved the best performance with 75.35% accuracy**, showing stronger contextual understanding than TF-IDF-based models.
+Through experimentation and comparison, **DistilBERT Fine-Tuning achieved the best performance with 74.40% accuracy**, showing stronger contextual understanding than TF-IDF-based models.
 
 The project also highlights a realistic NLP challenge: **neutral sentiment classification remains difficult due to ambiguity and overlap between sentiment classes**.
 
